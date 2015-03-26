@@ -1,0 +1,27 @@
+{
+  "name": "js-nglocation-provider",
+  "version": "0.0.0",
+  "description": "Wrapper around pushState and window.location",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nowk/js-nglocation-provider.git"
+  },
+  "keywords": [
+    "angular",
+    "pushState",
+    "window.location"
+  ],
+  "author": "Yung Hwa Kwon <yung.kwon@damncarousel.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nowk/js-nglocation-provider/issues"
+  },
+  "homepage": "https://github.com/nowk/js-nglocation-provider",
+  "devDependencies": {
+    "angular": "^1.3.15"
+  }
+}
